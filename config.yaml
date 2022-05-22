@@ -27,12 +27,9 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/bharanidharan-it19
+        - icon: fa fa-linkedin
+          url: https://www.linkedin.com/in/bharanidharan-s-2124b11ba/
 
   # About
   about:
