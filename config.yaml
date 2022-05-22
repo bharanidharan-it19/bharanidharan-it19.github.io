@@ -28,7 +28,7 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/bharanidharan-it19
-        - icon: fa fa-linkedin
+        - icon: fab fa-linkedin-in
           url: https://www.linkedin.com/in/bharanidharan-s-2124b11ba/
 
   # About
@@ -46,7 +46,7 @@ params:
       items:
         - "HTML"
         - "CSS"
-        
+
   # Education
   education:
     enable: true
@@ -55,12 +55,12 @@ params:
       - title: "Bachelor of technology"
         school:
           name: "Bannari amman institute of technology"
-          url: "https://example.org"
+          # url: "https://example.org"
         date: "2019 - 2023"
       - title: "High School"
         school:
           name: "Kongu kalvi nilayam"
-          url: "https://example.org"
+          # url: "https://example.org"
 
   #Contact
   contact:
